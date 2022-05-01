@@ -13,4 +13,5 @@
 5.  Hough Transform - Pending 
 
 ### Changes Needed
-1. Need to fix issue in gaussian_filter funcion to be able to display full image at once instead of just displaying one channel at a time 
+1. Need to fix issue in gaussian_filter funcion to be able to display full image at once instead of just displaying one channel at a time [ Error : Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).]
+  
